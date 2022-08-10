@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello World! 
 
-<!--
-**mertmtn/mertmtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**📫 Where to find me:** 
 
-Here are some ideas to get you started:
+[![Twitter Badge](https://img.shields.io/badge/-@_mertmetin-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_mertmetin)](https://twitter.com/_mertmetin) [![Linkedin Badge](https://img.shields.io/badge/-mrtmtn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrtmtn/)](https://www.linkedin.com/in/mrtmtn/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertmtn&show_icons=true&locale=en&theme=github_dark" alt="Mert's GitHub Stats" /></p>
+
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertmtn&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Mert's Most Used Languges" />
+
+<br />
+<br />
+
+**💼 Currently working as:** Software Engineer at <a href="https://www.somposigorta.com.tr/" target="_blank"><b>Sompo Sigorta / Insurance Turkey</b></a>
